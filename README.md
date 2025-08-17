@@ -11,3 +11,5 @@ User Segments: Segment learners based on engagement & activity levels.
 Python: Pandas, NumPy, Matplotlib
 Tableau: Interactive dashboard for insights
 Dataset: Reduced Duolingo user activity logs (~400MB sample)
+
+Dataset - https://drive.google.com/file/d/1ft_WxNq3y2VvujNsfwE2lNGN_VirnvZv/view?usp=sharing
