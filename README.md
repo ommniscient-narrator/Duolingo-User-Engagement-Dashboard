@@ -1,4 +1,5 @@
 This project analyzes Duolingo user behavior to uncover patterns in engagement, retention, and learning effectiveness. Using Python (Pandas, NumPy, Matplotlib) for data processing and Tableau for visualization, the analysis highlights key trends such as daily activity, language popularity, retention vs gap, and accuracy vs repetition.
+
 ✨ Features
 Daily Trends: Track active users, sessions, and articles read.
 Language Popularity: Compare learning interest across multiple languages.
